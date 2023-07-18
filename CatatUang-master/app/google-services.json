@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "560913319100",
+    "project_id": "p-f-m-3ddab",
+    "storage_bucket": "p-f-m-3ddab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560913319100:android:a232c6a56b9f0459587cb9",
+        "android_client_info": {
+          "package_name": "com.myapp.catatuang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560913319100-1rb19hnpofpatonfpu7tr9icqd0ugu1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWC2qA1469bd6Oka7XM-S7EuGo_AxHfYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560913319100-1rb19hnpofpatonfpu7tr9icqd0ugu1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
