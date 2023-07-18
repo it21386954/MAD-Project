@@ -11,6 +11,7 @@ I use Kotlin to build the app, and use Firebase to authenticate users, also Fire
 * Export to Excel (.xls format)
 ## User Interface :iphone:
 These are some pictures of the app's user interface :<br /><br />
+![ic_launcher](https://github.com/it21386954/MAD-Project/assets/99165392/390cad54-90ba-4583-9dcb-93b949ea3b59)
 ![20220619_Sign In Activity](https://github.com/it21386954/MAD-Project/assets/99165392/0ed660e1-8d6d-4fa1-967b-be9e14e24a99)
 ![20220619_Sign Up Activity](https://github.com/it21386954/MAD-Project/assets/99165392/a3b6904f-e9c7-4073-839f-4681d0ef304d)
 ![20220619_Transaction Fragment](https://github.com/it21386954/MAD-Project/assets/99165392/f4bf4532-02a5-4efe-85c5-8335444c7cfb)
